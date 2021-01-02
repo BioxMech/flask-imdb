@@ -1,7 +1,4 @@
-# Heicoders Flask Workshop Codebase
-
-_Note: You can customise this by editing _`README.md`_ in the root folder of your git repository._
-
+## Simple IMDB Database Search Flask Web Application
 
 ## Basic Structure of our Flask app
 
